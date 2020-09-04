@@ -1,5 +1,5 @@
 # Base information
-baseURL = "localhost:35999"
+baseURL = "https://hanu7675.github.io/"
 languageCode = "en-gb"
 title = "Hanumanth"
 theme ="portfolio"
